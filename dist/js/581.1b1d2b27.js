@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmakin_styles"]=self["webpackChunkmakin_styles"]||[]).push([[581],{1581:function(n,t,s){s.r(t),s.d(t,{default:function(){return i}});var a={};s.r(a);var e=s(3396);const u=(0,e._)("div",{class:"about"},[(0,e._)("h1",null,"This is the dashboard")],-1);function r(n,t,s,a,r,l){const c=(0,e.up)("Container");return(0,e.wg)(),(0,e.j4)(c,null,{default:(0,e.w5)((()=>[u])),_:1})}var l=s(89);const c=(0,l.Z)(a["default"],[["render",r]]);var i=c}}]);
+//# sourceMappingURL=581.1b1d2b27.js.map

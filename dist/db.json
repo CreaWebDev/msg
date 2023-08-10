@@ -1,0 +1,82 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "isMenu": true,
+      "label": "Buttons",
+      "icon": "fa-bars-progress",
+      "linkTo": "/dashboard/buttons"
+    },
+    {
+      "id": 2,
+      "isMenu": true,
+      "label": "Spacings",
+      "icon": "fa-arrows-left-right-to-line",
+      "linkTo": "/dashboard/spacings"
+    },
+    {
+      "id": 3,
+      "isMenu": true,
+      "label": "Tables",
+      "icon": "fa-table",
+      "linkTo": "/dashboard/tables"
+    },
+    {
+      "id": 4,
+      "isMenu": true,
+      "label": "List",
+      "icon": "fa-list",
+      "linkTo": "/dashboard/list"
+    },
+    {
+      "id": 5,
+      "isMenu": true,
+      "label": "List",
+      "icon": "fa-list",
+      "linkTo": "/dashboard/list"
+    },
+    {
+      "id": 6,
+      "isMenu": true,
+      "label": "List",
+      "icon": "fa-list",
+      "linkTo": "/dashboard/list"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Add new",
+      "padX": 8,
+      "padY": 10,
+      "id": 8
+    },
+    {
+      "label": "try",
+      "id": 9
+    },
+    {
+      "label": "New",
+      "id": 10
+    },
+    {
+      "label": "another",
+      "id": 11
+    }
+  ],
+  "icon-buttons": [
+    {
+      "label": "Add new",
+      "icon": "fa-home",
+      "padX": 8,
+      "padY": 10,
+      "id": 8
+    },
+    {
+      "label": "Test",
+      "icon": "fa-file",
+      "padX": 5,
+      "padY": 10,
+      "id": 9
+    }
+  ]
+}
